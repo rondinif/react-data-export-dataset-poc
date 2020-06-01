@@ -12,7 +12,7 @@ npm --ignore-scripts=false run build
 ![](./assets/build.png)
 ![](./assets/serve.png)
 ![](./assets/browse.png)
-![](./assets/download-xlsx.png)
+![](./assets/download-xlsx-with-additional-headers.png)
 
 # references
 ## related question 

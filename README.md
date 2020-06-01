@@ -14,6 +14,13 @@ npm --ignore-scripts=false run build
 ![](./assets/browse.png)
 ![](./assets/download-xlsx.png)
 
+
+## additional headings 
+the above steps are dor a basic to export multiple data multple table in the same sheet; 
+for additional header like this:  
+![](./assets/download-xlsx-with-additional-headers.png)
+plese see the [additional-headings branch](https://github.com/rondinif/react-data-export-dataset-poc/tree/additional-headings) 
+
 # references
 ## related question 
 - https://stackoverflow.com/questions/62071731/export-two-excel-data-into-single-excel-sheet-by-adding-heading-and-some-calcula/62132131#62132131

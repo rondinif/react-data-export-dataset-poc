@@ -1,7 +1,7 @@
 #  POC step by step
 ``` zsh 
 git clone https://github.com/rondinif/react-data-export-dataset-poc.git
-cd eact-data-export-dataset-poc
+cd react-data-export-dataset-poc
 npm i
 npm --ignore-scripts=false run build
 # serve the dist folder

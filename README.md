@@ -13,11 +13,14 @@ npm --ignore-scripts=false run build
 ![](./assets/serve.png)
 ![](./assets/browse.png)
 ![](./assets/download-xlsx.png)
-```
-# question 
+
+# references
+## related question 
 - https://stackoverflow.com/questions/62071731/export-two-excel-data-into-single-excel-sheet-by-adding-heading-and-some-calcula/62132131#62132131
-# answer 
+
+## related answer 
 https://stackoverflow.com/a/62132131/1657028
+
 <!-- 
 ## references used for the poc 
 https://medium.com/@paul.allies/react-create-app-without-react-create-app-7c8341282645

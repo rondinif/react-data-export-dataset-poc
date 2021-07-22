@@ -14,7 +14,7 @@
     "react-data-export": "^0.6.0",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.21",
-    "xlsx": "^0.16.1"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
